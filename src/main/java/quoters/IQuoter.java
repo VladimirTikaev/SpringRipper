@@ -1,5 +1,5 @@
 package quoters;
 
-public interface Quoter {
+public interface IQuoter {
     void sayQuote();
 }
